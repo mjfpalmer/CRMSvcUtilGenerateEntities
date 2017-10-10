@@ -1,0 +1,4 @@
+bin
+obj
+*.suo
+/GenerateEntities/GenerateEntities.csproj.user
